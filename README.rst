@@ -90,3 +90,6 @@ The device can now be accessed as a ``SocketCanDev``. This examples goes on bus 
 	print(dev.recv())
 
 .. _`Linux driver`: http://www.peak-system.com/fileadmin/media/linux/index.htm#download
+
+Checkout / Git Test by Byron
+----------------------------
